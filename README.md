@@ -1,0 +1,1 @@
+Le projet a été réalisé sur Databricks Community Edition afin d’exploiter Apache Spark pour le traitement distribué des données, et les résultats ont été présentés via un dashboard interactif directement connecté aux requêtes Spark SQL.
