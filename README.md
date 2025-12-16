@@ -36,3 +36,8 @@ En résumé, le choix de Meteostat est délibéré et cohérent avec les objecti
   - effectuer des contrôles qualité,
   - comprendre les limites des sources de données,
   - relier climat et économie de manière reproductible.
+
+# Le Dashboard
+
+Le dashboard a été réalisé sur Databricks afin d’offrir une vue complète sur les données météorologiques du Sénégal et leurs tendances, mises en perspective avec certaines données agricoles et économiques. L’objectif est de faciliter la compréhension des patterns existants et d’aider à la prise de décisions dans les domaines de l’agriculture, de la planification économique et de la gestion des ressources. Pour accéder au dashboard, suivez les étapes suivantes en cliquant sur le lien : [Dashboard Databricks](https://dbc-6cde42fe-78ab.cloud.databricks.com/dashboardsv3/01f0d9f77f2917d8bdafe3b09c4e245b/published?o=525931635000554)
+Vous y trouverez deux pages principales : la première présente une vue générale de la météo au Sénégal entre 2005 et 2025, tandis que la seconde met en évidence le croisement avec les variables agricoles et économiques. Des widgets de filtrage ont été intégrés pour permettre une exploration interactive et personnalisée des données selon différentes régions, périodes ou indicateurs spécifiques.
