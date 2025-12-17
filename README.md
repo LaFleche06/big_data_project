@@ -1,3 +1,5 @@
+Le lien vers la présentation est le suivant : [Support de présentation](https://www.canva.com/design/DAG7iYsNMBY/roiXOgwsxbkvK7yJfdmSwQ/edit?utm_content=DAG7iYsNMBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
   # Note méthodologique sur les données météorologiques utilisées dans ce projet de Big Data et Cloud Computing
 
 
